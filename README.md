@@ -1,3 +1,1 @@
-# JavaSample
-
-Added the some data 
+# JavaSample 
