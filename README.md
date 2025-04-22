@@ -1,3 +1,3 @@
-# JavaSample
+# JavaSample 
 
-Added the some data 
+Adding some other data so it    , so it have the changes 
